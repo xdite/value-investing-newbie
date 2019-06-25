@@ -29,6 +29,10 @@
 * 风险规避
 * 十年十倍的基础数学公式
 
+pdf 版本
+
+链接: https://pan.baidu.com/s/1lvBCNQ7vGTvYqYT-DrxOUg 提取码: 6vki
+
 ## 目录
 
 * [前言](00.md)
